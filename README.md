@@ -19,28 +19,11 @@ We wanted to make personal growth fun, engaging, and motivating. By integrating 
 
 ### Prerequisites
 To run the project, you need access to:
-- **Oracle APEX** environment for deploying the application
-- SQL Database to store user data and habit tracking information
-- A web browser to interact with the Oracle APEX user interface
-
-### Setup
-1. **Clone the Repository**:  
-   Clone this repository to your local machine using the following command:
-   ```
-   git clone https://github.com/yourusername/tasks-triumphs.git
-   ```
-
-2. **Deploy to Oracle APEX**:
-   - Open Oracle APEX and navigate to the SQL Workshop.
-   - Import the `main.sql` file included in this repository into the APEX environment.
-   - This will set up the necessary database tables, triggers, and functions for tracking habits, user profiles, and progression.
-   
-3. **Create APEX Pages**:
-   - Use Oracle APEX to create user interface pages for habit creation, tracking progress, and displaying user stats.
-   - Use the built-in features of Oracle APEX to link the back-end database (set up via the SQL file) to the front-end pages.
-   
-4. **Run the Application**:  
-   Once the setup is complete, you can start the application from the APEX workspace.
+- **Oracle APEX Project** [environment for deploying the application](https://apex.oracle.com/pls/apex/r/clayws/habits-tracker/home?session=124943118781751)
+- A web browser to interact with the Oracle APEX user interface.
+- Feel free to use the following user:
+Username: A01707658@tec.mx
+Password: MeQuitaronMiNavaja2024.
 
 ### Included Technologies
 - **Oracle APEX**: For rapid development of the front-end interface and integration with the back-end.
