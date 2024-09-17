@@ -22,8 +22,6 @@ To run the project, you need access to:
 - **Oracle APEX Project** [environment for deploying the application](https://apex.oracle.com/pls/apex/r/clayws/habits-tracker/home?session=124943118781751)
 - A web browser to interact with the Oracle APEX user interface.
 - Feel free to use the following user:
-Username: A01707658@tec.mx
-Password: MeQuitaronMiNavaja2024.
 
 ### Included Technologies
 - **Oracle APEX**: For rapid development of the front-end interface and integration with the back-end.
